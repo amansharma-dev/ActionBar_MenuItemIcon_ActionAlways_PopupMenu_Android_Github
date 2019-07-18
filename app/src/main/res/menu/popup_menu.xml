@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_menuOne"
+        android:title="@string/menu_one"
+        android:orderInCategory="101"
+        />
+
+    <item
+        android:id="@+id/action_menuTwo"
+        android:title="@string/menu_two"
+        android:orderInCategory="102"
+        />
+
+    <item
+        android:id="@+id/action_menuThree"
+        android:title="@string/menu_three"
+        android:orderInCategory="103"
+        />
+
+    <item
+        android:id="@+id/action_menuFour"
+        android:title="@string/menu_four"
+        android:orderInCategory="104"
+        />
+
+    <item
+        android:id="@+id/action_menuFive"
+        android:title="@string/menu_five"
+        android:orderInCategory="105"
+        />
+</menu>

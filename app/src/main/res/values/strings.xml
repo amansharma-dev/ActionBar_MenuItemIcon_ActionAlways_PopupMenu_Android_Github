@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ActionBar_MenuItemIcon_ActionAlways_PopupMenu_Android_Github</string>
+    <string name="menu">Menu Activity</string>
+    <string name="button_popup_menu">Popup Menu</string>
+    <string name="menu_one">Menu Item One</string>
+    <string name="menu_two">Menu Item Two</string>
+    <string name="menu_three">Menu Item Three</string>
+    <string name="menu_four">Menu Item Four</string>
+    <string name="menu_five">Menu Item Five</string>
 </resources>
